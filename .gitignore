@@ -35,3 +35,6 @@ vercel_error.log
 vercel_exec.log
 npm_install.log
 vercel_log.txt
+
+.vercel
+.env*
